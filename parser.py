@@ -3,10 +3,6 @@ import serial
 import time
 import argparse
 
-
-                CONNECTIONS BETWEEN ELRS AND RASPBERRY
-
-
 CRSF_SYNC = 0xC8
 RC_CHANNELS_PACKED = 0x16
 
